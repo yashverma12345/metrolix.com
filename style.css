@@ -1,0 +1,67 @@
+/* h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.photo img{
+    align-items: center;
+    border-radius: 94px;
+    padding-left: 33%;
+}
+
+.myabout {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer {
+    padding:12px;
+    align-items: center;
+    color: white;
+    background-color: black;
+}
+
+.copywrites {
+    color: white;
+    background-color: black;
+}
+
+.contactname {
+    display: flex;
+    justify-content: center;
+}
+
+
+.firstname {
+    padding-left: 44px;
+}
+.lastname {
+    padding-left: 90vh;
+}
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:azure;
+    color: red;
+}
+ 
+.email {
+    display: flex;
+    padding-left: 44px;
+    flex-direction: row;
+}
+.gender {
+    padding-left: 24%;
+}
+.namesinfo { 
+    display: flex;
+    flex-direction: row;
+}
+
+.downwork {
+    padding-top: 55vh;
+}
